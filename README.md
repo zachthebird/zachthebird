@@ -15,6 +15,7 @@ Things the fleet ships and operates:
 - 🌐 **Client & personal sites** — designed, built, deployed, and DNS-managed end-to-end on Vercel by the web-dev agent team
 - 💬 **SMS agent** on Twilio behind a Cloudflare tunnel
 - 🧾 **Ceiling-gated autonomous payments** with receipts reported to Telegram
+- 📖 **[agent-fleet-ops](https://github.com/zachthebird/agent-fleet-ops)** — the open field manual for running the fleet: launchd supervision, SQLite kanban dispatch, multi-provider failover, hard gates on money
 
 ## Stack
 
