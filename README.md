@@ -11,7 +11,7 @@ Most of the code in my repos is agent-built **by design**: I do the architecture
 Things the fleet ships and operates:
 
 - 🛍️ **[BusyBird](https://busybird-store.vercel.app)** — 3D-printed jewelry storefront: Next.js App Router, Stripe Checkout, Tailwind 4 → [repo](https://github.com/zachthebird/busybird-store)
-- 📈 **The Bazaar / Traders of the Round Table** — a character-driven GUI for the [TradingAgents](https://github.com/TauricResearch/TradingAgents) multi-agent LLM trading framework: summon an analyst team, watch Bull vs. Bear debate live (SSE) as game-style personas, get a verdict
+- 📈 **[The Bazaar](https://github.com/zachthebird/the-bazaar)** — a character-driven GUI for the [TradingAgents](https://github.com/TauricResearch/TradingAgents) multi-agent LLM trading framework: summon an analyst team, watch Bull vs. Bear debate live (SSE) as game-style personas, get a verdict → [live demo](https://static-demo-gules.vercel.app)
 - 🌐 **Client & personal sites** — designed, built, deployed, and DNS-managed end-to-end on Vercel by the web-dev agent team
 - 💬 **SMS agent** on Twilio behind a Cloudflare tunnel
 - 🧾 **Ceiling-gated autonomous payments** with receipts reported to Telegram
