@@ -20,3 +20,9 @@ Things the fleet ships and operates:
 ## Stack
 
 TypeScript · Next.js · React · Node · Python · FastAPI · SQLite · launchd · Vercel · Stripe · Twilio · Claude · Gemini · DeepSeek
+
+## Find me
+
+[zacharybird.com](https://zacharybird.com) · [LinkedIn](https://linkedin.com/in/zacharybird) · [email](mailto:email@zachbird.com)
+
+> Open to AI product / applied-AI / founding roles.
