@@ -4,6 +4,8 @@ Austin, TX. I architect and operate AI agent systems — and ship real products 
 
 Most of the code in my repos is agent-built **by design**: I do the architecture, review, and operations; a self-hosted fleet of AI agents does the execution. Running that loop well — reliably, safely, in production — is the craft I care about.
 
+The load-bearing design is mine: the SSE ↔ LangGraph streaming bridge in [The Bazaar](https://github.com/zachthebird/the-bazaar#whats-mine-vs-whats-upstream), the SQLite kanban dispatch schema and multi-provider failover routing, and the money-gate model that lets agents act autonomously only under a hard spend ceiling. The Bazaar spells out [what's mine vs. what's upstream](https://github.com/zachthebird/the-bazaar#whats-mine-vs-whats-upstream) explicitly.
+
 ## What I'm running
 
 **A self-hosted multi-agent fleet (24/7, on macOS).** Role-specialized agents — project management, web dev, finance, comms — with launchd-supervised gateways, kanban-based task dispatch, and multi-provider model routing with automatic failover (Claude, Gemini, DeepSeek). Human-in-the-loop gates on anything that spends money.
